@@ -1,6 +1,6 @@
-## CHAT APP using MERN stack and SOCKET.IO 🤠
+## CHAT APP using MERN stack and SOCKET.IO 
 
-- Visit <https://react-chat-vars.herokuapp.com/>
+
 
 ---
 
@@ -155,13 +155,3 @@ notificationRoutes.js
 userRoutes.js
 
 ---
-
-## Contributors
-
-- Vaibhav Dhiman <vaibhav.dhiman.my@gmail.com>
-
----
-
-## License & copyright
-
-©️ Vaibhav Dhiman
